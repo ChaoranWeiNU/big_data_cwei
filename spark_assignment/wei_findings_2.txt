@@ -1,0 +1,12 @@
+(1)
+
+As we can see from the output, 001XX N STATE ST and 0000X W TERMINAL ST have most number of crime events in the last three years.
+
+
+(2)
+
+After I calculated pearson correlations between one beat and the other, I found that the beats (2331,2331) and (2122,2123), for example, have nearly perfect correlation (0.99). Furthermore, I found that most beats with high correlations with each other starts with 2, and they appears on Chicago beats map as close to northern part of Chicago or northwest part of Chicago. My suspect is that these places are very close and in a safe neighborhood, so not many crime events happened there.
+
+(3)
+
+I calculated the total number of crime events in different community areas normalized by the number of days each mayor is incumbent and the date appears in this dataset. As we can see from the output, in nearly all community areas, mayor Emmanuel is doing a little better than mayor Daly. Only in a small percent of community areas does mayor Daly do better than mayor Emmanuel in terms of the number of crimes.

@@ -1,0 +1,27 @@
+In this problem, we use the machine learning method to predict the number of crime next week. Initially, I thought about using time-series models (such as arima model) to simply forecast the crime number for next week according to the crime number for previous weeks. However, that method is lacking, in that it didn’t use any other information in Chicago, because it makes sense that the number of crime in a certain month not only depend on crime numbers in previous months. That’s why I incorporate some extra features to turn this problem into a machine learning problem. 
+
+There are five features in this prediction model:
+
+lag of number of crime events: That is, the number of crime events last week.
+
+The second lag of number of crime events: That is, the number of crime events two weeks ago.
+
+Average temperature in Chicago: I found this dataset online as an external data source to join with the original dataset. According to question 1 in this assignment, there are more crimes during the summer than winter, so temperature might play a part in determining the number of crimes. This is the reason why I incorporate this data source into our predictive model.
+
+IUCR: Average severeness of the crime.
+
+Dummy variables of each beat: because we need to predict the crime event for next week for each beat.
+
+
+In terms of modeling process, I examined two machine learning models that I can find on spark.ml library: Simple multiple regression and random forest. 
+
+I first experimented on simple multiple regression model with L2 penalty. I didn’t expect it to work well because the model does not account for the interaction among three variables at all, but this is almost not likely the case. It turns out that r-square for multiple regression model, after 3-fold cross validation and parameter tuning on regularization term, is 0.7262752927125125 when we look at Chicago city (not each beat).
+
+I then experimented on random forest model. I set 100 estimators and, because we only have three features, grid search on some relatively shallow maximum depth. After we run the model, the r-square is reduced to 0.7037426886104012, again, at Chicago city level.
+
+This r-square estimate is an overestimate of the actual r-square for this model, because in this question we use training data to predict the result. This real r-square score might be lower.
+
+Note that because after turning each beat into dummy variables (303 in total), number of columns for the input dataset increased tremendously. This causes the memory to exceed the limit for wolf. So I have to try several time and decrease the number of folds in order to make it work on wolf.
+
+
+

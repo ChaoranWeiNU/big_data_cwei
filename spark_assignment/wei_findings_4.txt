@@ -1,0 +1,15 @@
+time of the day:
+
+Most important pattern I can find is that from 7PM to 9PM there are most crimes. I think it is because this is the time range when it’s getting darker (easier to conduct crime) and when people start to go out after dinner on street. This makes easier for criminals to take advantage of.
+
+I also find that during the sleep time (2 to 6AM) there are way less criminal activities. After all, criminals are human, and they need sleep!
+
+
+day of week:
+
+Number of crimes in terms of days in a week is more evenly distributed across all days in week. However, we can find that Friday has most number of crime events. My guess is that Friday is day when people conclude their works of the week and start to go out. What is counterintuitive is that Saturday and Sunday do not have particular high criminal events. Because numbers are so close, all above conclusions might not be statistically significant for day of week pattern.
+
+
+month:
+
+This question is similar to question 1. We can see that July and August there tend to be more crime events. And when it gets cold, there are less crime events. The reason is that when it gets hotter, people likes to go out more and enjoy the weather.

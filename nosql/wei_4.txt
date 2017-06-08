@@ -1,0 +1,390 @@
+ROW                   COLUMN+CELL                                               
+ 10                   column=date:month, timestamp=1496951264163, value=10      
+ 10                   column=email body:body, timestamp=1496951264438, value=Got
+                       to listen to Bob today --\x0A\x0AHe is indicating there w
+                      ill NOT be a buy signal until\x0Avery late this year and m
+                      aybe not until 4Qtr of next\x0A---\x0A\x0AAlso for Fixed i
+                      ncome --- look at something call\x0AI-Bonds --- don't know
+                       about them\x0A                                           
+ 11                   column=date:month, timestamp=1496951310470, value=10      
+ 11                   column=email body:body, timestamp=1496951312262, value=ATT
+                      ENTION: Intra month cash traders on TRADESPARK\x0A\x0ACash
+                       Products for all Power locations will be intermittently b
+                      rought up\x0Athroughout the morning of Monday, October 15t
+                      h.  Beginning Tuesday, October\x0A16th, 100% of the cash p
+                      roducts for all power locations will be functional\x0Aand 
+                      available for trading.  At this time, PJM is fully functio
+                      nal for all\x0Acash products.\x0A\x0APlease make sure you 
+                      have the subscribed to the desired cash products you\x0Awi
+                      sh to trade.\x0A\x0ARegards,\x0AThe TradeSpark Team\x0A\x0
+                      AContacts for assistance:\x0ATradeSpark Sales\x0APam Ander
+                      son 713-426-6593\x0AJeff Linn  713-655-5095\x0ABuck LaPoin
+                      t 713-655-5005\x0A\x0ATradeSpark Help Desk:\x0A713-556-338
+                      6\x0A713-556-3322\x0A713-556-3314\x0A713-556-3338\x0A\x0A\
+                      x0A\x0A\x0A\x0ACONFIDENTIAL: This e-mail, including its co
+                      ntents and attachments, if any, are confidential. If you a
+                      re not the named recipient please notify the sender and im
+                      mediately delete it. You may not disseminate, distribute, 
+                      or forward this e-mail message or disclose its contents to
+                       anybody else. Copyright and any other intellectual proper
+                      ty rights in its contents are the sole property of Tradesp
+                      ark, Inc.\x0A     E-mail transmission cannot be guaranteed
+                       to be secure or error-free. The sender therefore does not
+                       accept liability for any errors or omissions in the conte
+                      nts of this message which arise as a result of e-mail tran
+                      smission.  If verification is required please request a ha
+                      rd-copy version.\x0A     Although we routinely screen for 
+                      viruses, addressees should check this e-mail and any attac
+                      hments for viruses. We make no representation or warranty 
+                      as to the absence of viruses in this e-mail or any attachm
+                      ents. Please note that to ensure regulatory compliance and
+                       for the protection of our customers and business, we may 
+                      monitor and read e-mails sent to and from our server(s).\x
+                      0A\x0AFor further important information, please see http:/
+                      /www.tradespark.com/full-disclaimer.html                  
+ 3                    column=date:month, timestamp=1496716198553, value=10      
+ 3                    column=email body:body, timestamp=1496716203289, value=\x0
+                      AMike -\x0A\x0AWe spoke briefly on the phone yesterday abo
+                      ut creating a ticker story for your new East Power product
+                      , but I haven't received any further info from you. \x0A\x
+                      0AIf you would like to go ahead with this, please send a b
+                      rief description of the new product and the date it will b
+                      e launching on EnronOnline.\x0A\x0AThanks,\x0AErica Bess D
+                      uncan\x0Ax3-5159\x0A                                      
+ 4                    column=date:month, timestamp=1496951135966, value=10      
+ 4                    column=email body:body, timestamp=1496951144039, value=Cal
+                      pine, Entergy, Dominion, and Williams \x0A\x0AReagan C. Ro
+                      rschach                                                   
+ 5                    column=date:month, timestamp=1496951160274, value=10      
+ 5                    column=email body:body, timestamp=1496951164001, value=All
+                      ,\x0A\x0APlease mark you calendars, you  have been selecte
+                      d to participate in the  ENA Trading Track recruiting even
+                      t Monday, October 29th , 3 pm - 7 pm.     If you are unabl
+                      e to interview on this date please advise.\x0A\x0AA select
+                      ion of you will telephone screen 18 external candidates, a
+                      nd decide whether or not they should proceed to the final 
+                      round on the above date.    A separate e:mail will be sent
+                       in relation to this.\x0A\x0AAny questions let me know.\x0
+                      A\x0ARegards,\x0A\x0AKaren \x0Ax54667                     
+ 6                    column=date:month, timestamp=1496951198184, value=10      
+ 6                    column=email body:body, timestamp=1496951224189, value=\x0
+                      A\x0A                                                     
+                                            =\x0A                               
+                                                                  =\x0A         
+                                                                                
+                              =\x0A                                             
+                                                    =\x0A                       
+                                                                          =\x0A 
+                                                                                
+                                      =\x0A                                     
+                                                            =\x0A               
+                                                                                
+                        =\x0A                                                   
+                                              =\x0A                             
+                                                                    =\x0A       
+                                                                                
+                                =\x0A                                           
+                                       Intercontinenta=\x0AlExchange            
+                                                                            =\x0
+                      A                                                         
+                                        =\x0A                                   
+                                                              =\x0A             
+                                                                                
+                          =\x0A                                                 
+                                                =\x0A                           
+                                                       =20\x0A                  
+                                                                               =
+                      \x0A                                                      
+                                           =\x0A                                
+                                                                 =\x0A          
+                                                                                
+                             =\x0A                                              
+                                                   =\x0A                        
+                                                                   Firm P=\x0Aow
+                      er Price Bulletin                                         
+                                     =\x0A                                      
+                                                           =\x0A                
+                                                                                
+                       =\x0A                                                    
+                                             =\x0A                              
+                                                                   =\x0A        
+                                                                                
+                         =20\x0A                                                
+                                                 =\x0A                          
+                                                                       =\x0A    
+                                                                                
+                                   =\x0A                                        
+                                                         =\x0A                  
+                                                                               =
+                      \x0A                                                      
+                                     For Po=\x0Awer Delivered on Friday, October
+                         12, 2001                                =\x0A          
+                                                                                
+                             =\x0A                                              
+                                                   =\x0A                        
+                                                                         =\x0A  
+                                                                                
+                                     =\x0A                                      
+                                                           =\x0A                
+                                                                                
+                       =\x0A                                                    
+                                             =\x0A                              
+                                                                   =\x0A        
+                                                                                
+                               =\x0A                                            
+                                                     =\x0A                      
+                                                                  =20\x0A       
+                                                                                
+                                =\x0A                                           
+                                                      =\x0A                     
+                                                                            =\x0
+                      A                                                         
+                                        =\x0A                                   
+                                                              =\x0A             
+                                                                                
+                          =\x0A                                                 
+                                                =\x0A                           
+                                                                      =\x0A     
+                                                                                
+                                  =\x0A                                         
+                                                        =\x0A                   
+                                                                              =\
+                      x0A                                                       
+                           (Trade Date of =\x0AThursday, October   11, 2001)    
+                                                                =\x0A           
+                                                                                
+                            =\x0A                                               
+                                                  =\x0A                         
+                                                                        =\x0A   
+                                                                                
+                                    =\x0A                                       
+                                                          =\x0A                 
+                                                                                
+                      =\x0A                                                     
+                                            =\x0A                               
+                                                                  =\x0A         
+                                                                                
+                              =\x0A                                             
+                                                    =\x0A                       
+                                                                          =\x0A 
+                                                                                
+                                      =\x0A                                     
+                                                            =\x0A               
+                                                                                
+                        =\x0A                                                   
+                                              =\x0A                             
+                                                                    =\x0A       
+                                                                  =20\x0AClick h
+                      ere to access index history .                             
+                                =\x0A                                           
+                                                      =\x0A                     
+                                                                            =\x0
+                      A                                                         
+                                        =\x0A                                   
+                            =20\x0A                                             
+                                                    =\x0A                       
+                                                                          =\x0A 
+                                                                                
+                                      =\x0A                                     
+                                                            =\x0A               
+                                                                                
+                        =\x0A                                                   
+                                              =\x0A                             
+                                                                    =\x0A       
+                                                                                
+                                =\x0A                                           
+                                                      =\x0A                     
+                                                                            =\x0
+                      A                                                         
+                                        =\x0A                                   
+                                               * volume repres=\x0Aents sell-sid
+                      e only *                                                  
+                          =\x0A                                                 
+                                                =\x0A                           
+                                                                      =\x0A     
+                                                                                
+                                  =\x0A                                         
+                                                        =\x0A                   
+                                                                              =\
+                      x0A                                                       
+                                          =\x0A                                 
+                                                                =\x0A           
+                                                                                
+                            =\x0A                                               
+                                                  =\x0A                         
+                                                                        =\x0A   
+                                                                                
+                                    =\x0A                                       
+                                                          =\x0A                 
+                                                                                
+                      =\x0A                                                     
+                                            =\x0A                               
+                                                                  =\x0A         
+                                                                                
+                              =\x0A                                             
+                            =20\x0A\x0AHub=09High=09Low=09Wtd Avg Index=09Change
+                       ($)=09Vol (Mwh)=09\x0ACinergy=09         $19.00=09       
+                        $18.45=09         $18.58=09+    .29=09=\x0A          57,
+                      600=09\x0AComed=09         $18.75=09         $18.50=09    
+                           $18.67=09+    .27=09  =\x0A         4,800=09\x0AEnter
+                      gy=09         $20.50=09         $19.55=09         $20.17=0
+                      9+    .91=09=\x0A           9,600=09\x0ANepool=09         
+                      $32.00=09         $31.40=09         $31.65=09-   1.35=09 =
+                      \x0A          9,600=09\x0APJM-West=09         $24.00=09   
+                            $23.25=09         $23.49=09-    .67=\x0A=09         
+                       45,600=09\x0ASP-15=09         $27.50=09         $24.90=09
+                               $25.43=09+   1.51=09  =\x0A         9,600=09\x0AT
+                      VA=09         $20.25=09         $19.75=09         $20.00=0
+                      9+    .77=09    =\x0A       3,200=09\x0A\x0A\x0A          
+                                                                                
+                             =\x0A                                              
+                                                   =\x0A                        
+                                                                         =\x0A  
+                                                                                
+                                     =\x0A                                      
+                                                           =\x0A                
+                                                                                
+                       =\x0A                                                    
+                                             =\x0A                              
+                                                                   =\x0A        
+                                                                                
+                               =\x0A                                            
+                                                     =\x0A                      
+                                                                           =\x0A
+                                                                                
+                        Includes all tr=\x0Aades done from 6 AM to 11 AM Central
+                       Prevailing Time on the trade date spec=\x0Aified for fina
+                      ncially firm power delivered during the on-peak hours (6 A
+                      M -=\x0A 10 PM CPT for Eastern hubs / 6 AM - 10 PM Pacific
+                       Prevailing Time for West=\x0Aern hubs) on the delivery da
+                      te(s) specified.                               =\x0A      
+                                                                                
+                                 =\x0A                                          
+                                                       =\x0A                    
+                                                                             =\x
+                      0A                                                        
+                                         =\x0A                                  
+                                                               =\x0A            
+                                                                                
+                           =\x0A                                                
+                                                 =\x0A                          
+                                                     =20\x0A                    
+                                                                             =\x
+                      0A                                                        
+                                         =\x0A                                  
+                                                               =\x0A            
+                                                                                
+                           =\x0A                                                
+                                                 =\x0A                          
+                                                                     In=\x0Aterc
+                      ontinentalExchange is the world's most liquid trading plat
+                      form for over=\x0A-the-counter energy and metals.  Active 
+                      markets include North American powe=\x0Ar and natural gas,
+                       global crude and refined oil products, and precious meta=
+                      \x0Als.  Traded instruments include forwards, swaps, and o
+                      ptions.              =\x0A                                
+                                                                 =\x0A          
+                                                                 =20\x0ATo becom
+                      e an Exchange Participant or inquire about the indices, pl
+                      ease cont=\x0Aact sales@intcx.com .                       
+                                                     =\x0A                      
+                                                                           =\x0A
+                                                                                
+                                       =\x0A                                    
+                                                             =\x0A              
+                                               =20\x0AThis information is sent t
+                      o you free of charge and may be redistributed in =\x0Aits 
+                      entirety.  Republishing in any other form is prohibited.  
+                                   =\x0A                                        
+                                                         =\x0A                  
+                                                                               =
+                      \x0A                                                      
+                                           =\x0A                                
+                                                                 =\x0A=20\x0AIf 
+                      this was forwarded by a friend and you would like to recei
+                      ve your own da=\x0Aily bulletin, click here to subscribe .
+                                                          =\x0A                 
+                                                                                
+                      =\x0A                                                     
+                                            =\x0A                               
+                                                                  =\x0A         
+                                       =20\x0ATo unsubscribe from this service, 
+                      click here unsubscribe .                 =\x0A            
+                                                                                
+                           =\x0A                                                
+                                                 =\x0A                          
+                                                                       =\x0A    
+                                                                                
+                                   =\x0A                                        
+                                                         =\x0A                  
+                                                                               =
+                      \x0A                                                      
+                                           =\x0A                                
+                                                                 =\x0A          
+                                                                                
+                             =\x0A                                              
+                                                   =\x0A                       =
+                      20\x0A                                                    
+                                             =\x0A                              
+                                                                   =\x0A        
+                                                                                
+                               =\x0A                                            
+                                                     =\x0A                      
+                                                                           =\x0A
+                                                                                
+                                       =\x0A                                    
+                                                             =\x0A              
+                                                                                
+                         =\x0A                                                  
+                                               =\x0A                            
+                                                                     =\x0A      
+                                                                                
+                                 =\x0A                                          
+                                    ?Copyright Intercon=\x0AtinentalExchange, In
+                      c. 2001, All Rights Reserved.                          =\x
+                      0A                                                        
+                                         =\x0A                                  
+                                                               =\x0A            
+                                                                                
+                           =\x0A                                                
+                                                 =\x0A                          
+                                                                       =\x0A    
+                                                                                
+                                   =\x0A                                        
+                                                         =\x0A                  
+                                                                               =
+                      \x0A                                                      
+                                           =\x0A                                
+                                                                 =\x0A          
+                                                                                
+ 7                    column=date:month, timestamp=1496951233014, value=10      
+ 7                    column=email body:body, timestamp=1496951233202, value=\x0
+                      AWe received the following executed EEI Master Power Purch
+                      ase and Sale Agreements:\x0A\x0AConexant Systems - 9/28/01
+                      \x0AFresh Express Incorporated - 9/27/01\x0AMississippi De
+                      lta Energy Agency, Clarksdale Public Utilities Commission 
+                      of the City of Clarksdale, Mississippi, and Public Service
+                       Commission of Yazoo City of the City Yazoo City, Mississi
+                      ppi - 5/1/01\x0AXERS INC d/b/a Xcel Energy - 10/4/01\x0ACi
+                      ty of Mesa, Arizona - 9/5/01\x0AInternational Rectifier Co
+                      rporation - 9/20/01\x0ANorth Carolina Power Holdings, LLC 
+                      - 7/12/01\x0A\x0AA copy of each will be scanned into Livel
+                      ink.\x0A                                                  
+ 8                    column=date:month, timestamp=1496951243541, value=10      
+ 8                    column=email body:body, timestamp=1496951246160, value=Dea
+                      r Friends,\x0AJust a quick note to let you know the Golf t
+                      ournament has been  rescheduled to March 9, 2002 with a 1:
+                      00 PM  shotgun start. There were more  and more conflicts 
+                      that kept arising for November 10. Please put this date on
+                        your calendars and begin now to get your foursomes toget
+                      her. \x0ACharles\x0ACharles E. Ruehl\x0ASt. Paul's United 
+                      Methodist  Church\x0AMinister of Finance and Administratio
+                      n \x0AHouston,  TX\x0A713-528-0527\x0A - Rev. Charles Rueh
+                      l (E-mail).vcf                                            
+ 9                    column=date:month, timestamp=1496951255636, value=10      
+ 9                    column=email body:body, timestamp=1496951257092, value=Rou
+                      gh game for KSU but looks like OU -- keeps up the\x0Aeffor
+                      t -- hard to stay up for each game\x0A\x0A\x0A\x0A________
+                      __________________________________________\x0ADo You Yahoo
+                      !?\x0AMake a great connection at Yahoo! Personals.\x0Ahttp
+                      ://personals.yahoo.com       

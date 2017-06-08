@@ -1,0 +1,12 @@
+Multiple regression with Laso r-square: 0.7262752927125125
+
+Random Forest r-square: 0.7037426886104012
+
+Example prediction output:
+
+   label  prediction
+0   41.0   30.599285
+1   28.0   35.671028
+2   39.0   32.199088
+3   36.0   31.244867
+4   27.0   34.585425
